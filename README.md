@@ -125,7 +125,7 @@ Here are some enhancements planned for future versions of **nextHired**:
 
 ## 🌟 Author
 
-Built with ❤️ by [**Tushar Shinde**](https://github.com/Tushar-Shinde31)
+Built with ❤️ by [**Kavita Vidhate**](https://github.com/kavitaa30)
 
 ---
 
@@ -137,3 +137,4 @@ Feel free to fork, contribute, or raise issues.
 ---
 
 **nextHired – Bridging Jobs & Talent** 💼🚀👨‍💻
+
